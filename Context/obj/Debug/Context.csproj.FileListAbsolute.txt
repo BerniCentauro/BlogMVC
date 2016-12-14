@@ -8,3 +8,13 @@ c:\users\berni hidalgo\documents\visual studio 2015\Projects\BlogMVC\Context\bin
 c:\users\berni hidalgo\documents\visual studio 2015\Projects\BlogMVC\Context\bin\Debug\EntityFramework.SqlServer.dll
 c:\users\berni hidalgo\documents\visual studio 2015\Projects\BlogMVC\Context\bin\Debug\EntityFramework.xml
 c:\users\berni hidalgo\documents\visual studio 2015\Projects\BlogMVC\Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\BlogMVC\Context\bin\Debug\Context.dll.config
+C:\GitHub\BlogMVC\Context\bin\Debug\Context.dll
+C:\GitHub\BlogMVC\Context\bin\Debug\Context.pdb
+C:\GitHub\BlogMVC\Context\bin\Debug\EntityFramework.dll
+C:\GitHub\BlogMVC\Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\BlogMVC\Context\bin\Debug\EntityFramework.xml
+C:\GitHub\BlogMVC\Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\BlogMVC\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
+C:\GitHub\BlogMVC\Context\obj\Debug\Context.dll
+C:\GitHub\BlogMVC\Context\obj\Debug\Context.pdb

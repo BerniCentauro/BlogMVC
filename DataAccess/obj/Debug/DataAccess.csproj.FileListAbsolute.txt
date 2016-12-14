@@ -10,3 +10,15 @@ c:\users\berni hidalgo\documents\visual studio 2015\Projects\BlogMVC\DataAccess\
 c:\users\berni hidalgo\documents\visual studio 2015\Projects\BlogMVC\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 c:\users\berni hidalgo\documents\visual studio 2015\Projects\BlogMVC\DataAccess\obj\Debug\DataAccess.dll
 c:\users\berni hidalgo\documents\visual studio 2015\Projects\BlogMVC\DataAccess\obj\Debug\DataAccess.pdb
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\DataAccess.dll.config
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\DataAccess.dll
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\DataAccess.pdb
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\Context.dll
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\EntityFramework.dll
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\Context.pdb
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\EntityFramework.xml
+C:\GitHub\BlogMVC\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\BlogMVC\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\GitHub\BlogMVC\DataAccess\obj\Debug\DataAccess.dll
+C:\GitHub\BlogMVC\DataAccess\obj\Debug\DataAccess.pdb

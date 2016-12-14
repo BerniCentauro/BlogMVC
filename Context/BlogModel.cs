@@ -13,6 +13,7 @@ namespace Context
         }
 
         public virtual DbSet<Entry> Entry { get; set; }
+        public virtual DbSet<News> News { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -30,6 +31,10 @@ namespace Context
 
             modelBuilder.Entity<Entry>()
                 .Property(e => e.Author)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<News>()
+                .Property(e => e.Text)
                 .IsUnicode(false);
         }
     }

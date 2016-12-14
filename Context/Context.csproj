@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="BlogModel.cs" />
     <Compile Include="Entry.cs" />
+    <Compile Include="News.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
