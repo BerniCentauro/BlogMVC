@@ -34,3 +34,6 @@ C:\GitHub\BlogMVC\ApiServices\bin\System.Web.Http.WebHost.xml
 C:\GitHub\BlogMVC\ApiServices\obj\Debug\ApiServices.csprojResolveAssemblyReference.cache
 C:\GitHub\BlogMVC\ApiServices\obj\Debug\ApiServices.dll
 C:\GitHub\BlogMVC\ApiServices\obj\Debug\ApiServices.pdb
+C:\GitHub\BlogMVC\ApiServices\bin\System.Web.Cors.dll
+C:\GitHub\BlogMVC\ApiServices\bin\System.Web.Http.Cors.dll
+C:\GitHub\BlogMVC\ApiServices\bin\System.Web.Http.Cors.xml
