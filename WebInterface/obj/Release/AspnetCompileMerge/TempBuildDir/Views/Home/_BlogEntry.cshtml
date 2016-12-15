@@ -1,0 +1,17 @@
+﻿@using Context;
+
+@model Entry
+
+<div class="media">
+    <div class="media-body">
+        <div class="thumbnail pull-left">
+            <img src="@Model.Image" width="200"/>
+        </div>
+        <div class="pull-left" style="padding-left: 20px;">
+            <h4 class="media-heading">@Model.Title</h4>
+            <div>@Model.Content</div>
+            <small>Por @Model.Author</small><br/>
+            <small>@Model.CreationDate.ToString("dd/MM/yyyy hh:mm:ss tt")</small>
+        </div>
+    </div>
+</div>

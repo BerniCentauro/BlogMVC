@@ -1,0 +1,10 @@
+C:\GitHub\BlogMVC\Context\bin\Release\Context.dll.config
+C:\GitHub\BlogMVC\Context\bin\Release\Context.dll
+C:\GitHub\BlogMVC\Context\bin\Release\Context.pdb
+C:\GitHub\BlogMVC\Context\bin\Release\EntityFramework.dll
+C:\GitHub\BlogMVC\Context\bin\Release\EntityFramework.SqlServer.dll
+C:\GitHub\BlogMVC\Context\bin\Release\EntityFramework.xml
+C:\GitHub\BlogMVC\Context\bin\Release\EntityFramework.SqlServer.xml
+C:\GitHub\BlogMVC\Context\obj\Release\Context.csprojResolveAssemblyReference.cache
+C:\GitHub\BlogMVC\Context\obj\Release\Context.dll
+C:\GitHub\BlogMVC\Context\obj\Release\Context.pdb

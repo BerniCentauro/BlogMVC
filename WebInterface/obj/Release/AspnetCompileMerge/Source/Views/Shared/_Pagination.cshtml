@@ -1,0 +1,13 @@
+﻿@using WebInterface.Models
+@using Context
+
+@model Pagination<Entry>
+
+<ul class="pagination">
+    @foreach (int pageNumber in Model.GetPages())
+    {
+        <li>
+            <a href="?page=@pageNumber&search=@Model.Search">@pageNumber</a>
+        </li>
+    }
+</ul>

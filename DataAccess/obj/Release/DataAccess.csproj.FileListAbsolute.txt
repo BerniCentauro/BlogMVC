@@ -1,0 +1,12 @@
+C:\GitHub\BlogMVC\DataAccess\bin\Release\DataAccess.dll.config
+C:\GitHub\BlogMVC\DataAccess\bin\Release\DataAccess.dll
+C:\GitHub\BlogMVC\DataAccess\bin\Release\DataAccess.pdb
+C:\GitHub\BlogMVC\DataAccess\bin\Release\Context.dll
+C:\GitHub\BlogMVC\DataAccess\bin\Release\EntityFramework.dll
+C:\GitHub\BlogMVC\DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\GitHub\BlogMVC\DataAccess\bin\Release\Context.pdb
+C:\GitHub\BlogMVC\DataAccess\bin\Release\EntityFramework.xml
+C:\GitHub\BlogMVC\DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\GitHub\BlogMVC\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\GitHub\BlogMVC\DataAccess\obj\Release\DataAccess.dll
+C:\GitHub\BlogMVC\DataAccess\obj\Release\DataAccess.pdb
